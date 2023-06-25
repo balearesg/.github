@@ -33,4 +33,4 @@ We welcome any contributions from other developers who share our vision and miss
 
 ## Contact Us
 
-You can reach us through our website [^1^][1] or by email at info@balearesgroup.com. We would love to hear from you and collaborate on your projects.
+You can reach us through our website or by email at info@balearesgroup.com. We would love to hear from you and collaborate on your projects.
